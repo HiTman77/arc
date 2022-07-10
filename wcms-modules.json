@@ -1,0 +1,13 @@
+{
+"version": 1,
+"themes": {
+"arc": {
+"name": "arc",
+"repo": "https://github.com/HiTman77/arc/",
+"zip": "https://github.com/HiTman77/arc/archive/refs/heads/main.zip",
+"summary": "arc",
+"version": "1.0.1",
+"image": "https://raw.githubusercontent.com/HiTman77/arc/main/preview.jpg"
+}
+}
+}
